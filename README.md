@@ -1,7 +1,7 @@
 # express-defaults [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
 > Middleware for setting default values in requests.
 
-Current the middleware supports `params` and `query`.  `body` is considered to be somewhat complicated
+Currently the middleware supports `params` and `query`.  `body` is considered to be somewhat complicated
 at this time; however, PRs are welcomed.
 
 ## Example
