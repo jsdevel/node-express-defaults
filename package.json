@@ -1,6 +1,6 @@
 {
   "name": "express-defaults",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Middleware for setting default values in requests.",
   "author": "Joseph Spencer",
   "scripts": {
