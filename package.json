@@ -1,0 +1,32 @@
+{
+  "name": "express-defaults",
+  "version": "0.0.0",
+  "description": "Middleware for setting default values in requests.",
+  "author": "Joseph Spencer",
+  "scripts": {
+    "cover": "istanbul cover ./test.js && cat ./coverage/lcov.info | coveralls -v",
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsdevel/node-express-defaults.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "default",
+    "defaults",
+    "values",
+    "request"
+  ],
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsdevel/node-express-defaults/issues"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.6",
+    "istanbul": "^0.4.1"
+  },
+  "dependencies": {}
+}
